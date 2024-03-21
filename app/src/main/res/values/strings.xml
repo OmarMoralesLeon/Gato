@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gato</string>
+    <string name="titulo_del_gato">Gato</string>
+
+    <string name="next_player">Turno: %1$s</string>
+
+    <string name="winner">Ganador: %1$s</string>
+
+    <string name="reset">Reset</string>
+    <string name="turno_x">Turno X</string>
+</resources>
